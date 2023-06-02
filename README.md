@@ -8,3 +8,12 @@ Repositorio de prctica del curso de platzi
 cd game/
 py main.py
 ```
+
+## App proyecto
+```sh
+git clone
+cd app
+source env-app/Scripts/activate
+pip install -r requirements.txt
+py main.py
+```
